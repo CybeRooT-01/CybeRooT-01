@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/king_birahim" target="blank"><img src="https://img.shields.io/twitter/follow/king_birahim?logo=twitter&style=for-the-badge" alt="king_birahim" /></a> </p>
 
-- 🌱 J'apprend actuellement **Java Spring Boot & angular**
+
+- 🌱 J'apprend actuellement **flutter & react**
 
 - 💬 Ask me about **CTF, Web security, backend-Dev**
 

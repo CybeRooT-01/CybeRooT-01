@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/king_birahim" target="blank"><img src="https://img.shields.io/twitter/follow/king_birahim?logo=twitter&style=for-the-badge" alt="king_birahim" /></a> </p>
 
 
-- 🌱 J'apprend actuellement **flutter & react**
+- 🌱 J'apprend actuellement **Kubernetes Ansible & Jenkins**
 
-- 💬 Ask me about **CTF, Web security, backend-Dev**
+- 💬 Ask me about **CTF, Web security, backend-Dev, CI/CD piplines**
 
 - 📫 Contacts **birahim267@gmail.com**
 

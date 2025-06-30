@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=cyberoot-01&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoot-01" />
 </p>
 
-<img align="right" alt="Birahim Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="position: absolute; top: 20px;" />
+<img align="right" alt="Birahim Dev GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="position: relative; top: 20px;" />
 
 
 - 🔧 Actuellement je travaille comme **développeur Fullstack**  

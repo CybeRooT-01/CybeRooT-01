@@ -10,7 +10,7 @@
 
 - 🔧 Actuellement je travaille comme **développeur Fullstack**  
 - 🔍 Curieux de nature, je m’adapte facilement aux nouvelles technologies selon les besoins des projets. 
-- 🤷‍♂️ La cybersécurité ? Ouais c’est fun. Mais c’est pas mon focus.  
+- 🤷‍♂️ Joeur CTF durant mes temps libre 
 - 📬 Contact : **birahim267@gmail.com**  
 - 🌐 Mon portfolio : [birahim.vercel.app](https://birahim.vercel.app/)
 

@@ -27,7 +27,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-%232F027A?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring-boot](https://img.shields.io/badge/spring-boot)
+![Spring-boot](https://img.shields.io/badge/spring-boot?style=for-the-badge&logo=nextdotjs&logoColor=whit)
 
 **Langages :**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

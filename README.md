@@ -48,10 +48,6 @@
 
 ### 📊 Stats GitHub
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberoot-01&show_icons=true&locale=en&layout=compact" alt="cyberoot-01" />
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberoot-01&show_icons=true&locale=en" alt="cyberoot-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberoot-01&" alt="cyberoot-01" /></p>

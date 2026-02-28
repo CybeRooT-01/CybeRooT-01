@@ -1,5 +1,8 @@
 <h1 align="center">Salut 👋, moi c’est Birahim Gueye</h1>
-<h3 align="center">Développeur Fullstack & DevOps Junior — passionné par la tech</h3>
+<h3 align="center">
+Développeur Fullstack & DevOps Junior — passionné par la tech<br/>
+🇵🇸 Free Palestine
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyberoot-01&label=Profile%20views&color=0e75b6&style=flat" alt="cyberoot-01" />

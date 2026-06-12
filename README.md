@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, moi c’est Birahim Gueye</h1>
 <h3 align="center">
-Développeur Fullstack & DevOps Junior — passionné par la tech<br/>
+Développeur Fullstack & DevOps — passionné par la tech<br/>
 🇵🇸 Free Palestine
 </h3>
 
